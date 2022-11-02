@@ -1,0 +1,64 @@
+---
+title: "Resume"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+# 
+
+
+#### EDUCATION 
+
+* Columbia University Mailman School of Public Health 	New York, NY 
+Master of Public Health / Epidemiology (Public Health Research Method Certificate) 	May 2023 
+          Relevant Courses : Data Science, Introduction to Programming in R, Business Strategies and Solving Social Problems
+China Agricultural University (HSK Level 4) 	Beijing, China 
+     Chinese Language program 	Sep 2017
+* Seoul National University 	Seoul, South Korea
+Master of Science in Agricultural Biotechnology, GPA: 3.86/4.3 	June 2012
+     Specialization in Entomology and Nutrition 
+* Mongolia International University 	Ulaanbaatar, Mongolia
+     Bachelor of Science and Biotechnology and Food Science, GPA: 3.7/4.0 	May 2008
+* Hallym University Student exchange program in Environmental Science Dept 	Chuncheon, Korea 2007
+
+#### PUBLIC HEALTH AND RESEARCH EXPERIENCE
+
+* National Center for Public Health (NCPH) 	Ulaanbaatar, Mongolia                 
+Researcher 	May 2020 – Dec 2021 
+    + Conducted research and development projects on environmental risk factors for human health, assessing and mitigating its impact, was granted $15k budget to develop a research methodology to assess public health problems for 1,740 people.
+    + Organized training on air quality, developing, publishing and disseminating training materials, manuals and information to various multinational and government agencies, including UNICEF, WHO, Ministry of health, Mongolia. 
+    + Developed nationwide surveys using Google Forms to assess knowledge, attitudes, practices and perception towards COVID-19 for the 5 main provinces Mongolia in border-specific populations near Russia and China.
+    + Collected surveys from patients in health centers, schools, on the street, and retail market for 1,740 people.
+    + Wrote and published articles for national and international journals. 
+    
+* National Academy of Agricultural Science 	Suwon, Korea
+Researcher 	Feb 2012 – Jan 2013
+    + Worked with research related to nutritional value of mealworm with a team of 10 to write and publish scientific articles for international journals.
+    + Collected data, entered data, and created graphs using Excel for research articles.
+    
+#### COORPORATE AND INTERNATIONAL ORGANIZATION EXPERIENCE
+* Food and Agriculture Organization of the United Nations (FAO) 	Ulaanbaatar, Mongolia 
+Program Associate 	Aug 2019 – May 2020                                                                                                                  
+    + Monitored the progress of ongoing projects and regular program activities and fostered culture partnership and collaboration.
+    + VPlanned and implemented program activities for complex challenges such as food insecurity for urban and rural population.
+    + Facilitated smooth flow of information across projects, operations and technical teams in remote areas. 
+    + Maintained corporate work planning and reporting (country annual report, corporate outcome assessment, program evaluations) for 60 staff numbers. 
+
+* Samsung C&T Corporation 	Dalanzadgad, Mongolia
+Translator & Manager 	April 2014 -- April 2015
+    + Translated oral conversations between main contractor and subcontractors on ongoing train rail project process and written documents in Mongolian, Korean, English for Field and Office.
+    + Communicated through phone calls and organized meetings on construction status within inner section of the company and between the subcontractors.
+
+#### SKILLS
+* Data Analytics and statistics:  SAS and R 
+* Technical: MS Office, Photography and Videography
+* Languages: Fluent in English, Mongolian, and Korean; Beginner Level Russian 
+
+#### PUBLICATIONS
+* Kwang Pum Lee, Taehwan Jang, Nergui Ravzanaadii, and Myung Suk Rho. (2015). Macronutrient Balance Modulates the Temperature-Size Rule in an Ectotherm. The American Naturalist, 186(2), 212-222. 
+* Nergui Ravzanaadii, Kim Seong-Hyun, Choi Won-Ho (2012). Nutritional Value of Mealworm, Tenebrio molitor as Food Source. International Journal of Industrial Entomology, 25(1), 93-98. 
+* Suvd Batbaatar1*, Nergui Ravzanaadii1, Buuveidulam Altansukh1, etc (2021). Knowledge, attitudes, practices and perception towards COVID-19: A cross-sectional survey among Mongolian residents. International Journal of Educational Research and Review, 2(4), 27-37. 
+
+

@@ -1,0 +1,103 @@
+---
+title: "plotly"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+We are going to make some plotly plots.
+
+## Load packages and data
+
+```{r}
+library(tidyverse)
+library(p8105.datasets)
+library(plotly)
+library(dplyr)
+library(readxl)
+library(ggplot2)
+library(patchwork)
+library(lubridate)
+library(ggridges)
+```
+
+let's get some data.
+
+```{r}
+data("ny_noaa")
+
+noaa_tidy = ny_noaa |>  
+  janitor::clean_names() |>  
+  separate(date, into = c("year", "month", "day"), convert = TRUE) |> 
+  mutate(
+    prcp = prcp / 10 ,
+    tmax = as.numeric(tmax) / 10,
+    tmin = as.numeric(tmin) / 10,
+    year = as.numeric(year),
+    day = as.numeric(day), 
+    month = recode_factor(month,
+          "01" = "January",
+          "02" = "February",
+          "03" = "March",
+          "04" = "April",
+          "05" = "May",
+          "06" = "June",
+          "07" = "July",
+          "08" = "August",
+          "09" = "September",
+          "10" = "October",
+          "11" = "November",
+          "12" = "December"
+          )) |>  
+  relocate(year, month, day, everything())
+```
+
+Scatterplot
+
+```{r}
+
+tmax_noaa = noaa_tidy |>  
+  group_by(id, year, month) |>  
+  summarize(mean_tmax = mean(tmax, na.rm = TRUE))
+
+tmax_noaa |> 
+    plot_ly(
+        x = ~year, y = ~mean_tmax, color = ~ month,
+    type = "scatter", mode = "markers", alpha = .5, text = "Data from the NOAA dataset"
+    )
+
+```
+
+Boxplots
+
+```{r}
+
+tmax_noaa |>
+    plot_ly(
+        y = ~mean_tmax, color = ~month,
+        type = "box", colors = "viridis")
+
+```
+
+Bar plot
+
+```{r}
+
+tmax_noaa |>
+    plot_ly(
+        x = ~month, y = ~mean_tmax,
+        type = "bar", colors = "viridis")
+```
+
+
+
+
+
+
+## Create a dashboard...
+
+Not here though.
+
+
+
