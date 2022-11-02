@@ -6,9 +6,6 @@ output:
     toc_float: true
 ---
 
-# 
-
-
 #### EDUCATION 
 
 * Columbia University Mailman School of Public Health 	New York, NY 
@@ -60,5 +57,3 @@ Translator & Manager 	April 2014 -- April 2015
 * Kwang Pum Lee, Taehwan Jang, Nergui Ravzanaadii, and Myung Suk Rho. (2015). Macronutrient Balance Modulates the Temperature-Size Rule in an Ectotherm. The American Naturalist, 186(2), 212-222. 
 * Nergui Ravzanaadii, Kim Seong-Hyun, Choi Won-Ho (2012). Nutritional Value of Mealworm, Tenebrio molitor as Food Source. International Journal of Industrial Entomology, 25(1), 93-98. 
 * Suvd Batbaatar1*, Nergui Ravzanaadii1, Buuveidulam Altansukh1, etc (2021). Knowledge, attitudes, practices and perception towards COVID-19: A cross-sectional survey among Mongolian residents. International Journal of Educational Research and Review, 2(4), 27-37. 
-
-
