@@ -1,0 +1,18 @@
+---
+title: "About Nergui"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+##### Photo session
+
+<center>
+<img src="images/nergui.jpg" style="width:25%">
+</center>
+
+##### Links 
+* [Linkedin](https://www.linkedin.com/feed/)
+* [Data science](https://p8105.com/index.html)
+        

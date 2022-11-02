@@ -1,0 +1,24 @@
+name: "Yay internet!"
+output_dir: "."
+navbar:
+  title: "Home"
+  right:
+    - text: "About"
+      href: about.html
+    - text: "Dashboard"
+      href: dashboard.html
+    - text: "Resume"
+      href: resume.html
+    - text: "Linkedin"
+      href: https://www.linkedin.com/feed/
+    - icon: fa-envelope fa-lg
+      href: mailto:<nr2774@cumc.columbia.edu>
+    - icon: fa-solid fa-bug
+      href: https://github.com/nergui85
+
+      
+
+      
+output:
+  html_document:
+    theme: cerulean
