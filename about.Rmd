@@ -19,7 +19,7 @@ output:
 * [Linkedin](https://www.linkedin.com/in/nergui-ravzanaadii/)
 
 # Hobbies
-* Running
+### Running
     + National Trail Running Championship. Individual
 12km race - Silver medal.
     + National Running Championship ( Bagakhangai marathon), Team Button 50 km race - Silver.
@@ -34,7 +34,7 @@ Gold medal.
 <img src="images/run.jpg" style ="width:50%">
 </center>
 
-###### Archery
+### Archery
 
 ![](image/archery.jpg")
 
