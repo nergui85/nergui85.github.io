@@ -1,11 +1,44 @@
 ---
-title: "About this website"
+title: "Nergui's website"
 output: 
   html_document:
     toc: true
     toc_float: true
 ---
 
-# This is Nergui's awesome website
+# Photo session 
 
-This awesome website is made in rmarkdown and other stuff. 
+![](image/nergui_r.jpg")
+<center>
+<img src="images/nergui_r.jpg" style ="width:50%">
+</center>
+
+# Links 
+
+* [Data Science](https://p8105.com/index.html)
+* [Linkedin](https://www.linkedin.com/in/nergui-ravzanaadii/)
+
+# Hobbies
+* Running
+    + National Trail Running Championship. Individual
+12km race - Silver medal.
+    + National Running Championship ( Bagakhangai marathon), Team Button 50 km race - Silver.
+    + Achilles International Mongolia-online race
+Gold medal,
+    + ‘Sengu race-2021’ Trail Running championship
+Gold medal.
+
+![](image/run.jpg")
+
+<center>
+<img src="images/run.jpg" style ="width:50%">
+</center>
+
+###### Archery
+
+![](image/archery.jpg")
+
+<center>
+<img src="images/archery.jpg" style ="width:50%">
+</center>
+
