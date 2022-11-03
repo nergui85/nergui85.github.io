@@ -6,13 +6,10 @@ output:
     toc_float: true
 ---
 
-##### Photo session
+
 
 <center>
-<img src="images/nergui.jpg" style="width:25%">
+<img src="images/dc.jpg" style="width:50%">
 </center>
 
-##### Links 
-* [Linkedin](https://www.linkedin.com/feed/)
-* [Data science](https://p8105.com/index.html)
-        
+
